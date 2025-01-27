@@ -224,6 +224,10 @@ main .section {
   border-radius: 0;
 }
 
+.cards.info > ul > li {
+  border: 0;
+}
+
 .news .button-container a {
   color: black;
   display: block;
