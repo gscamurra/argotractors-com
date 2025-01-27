@@ -218,6 +218,20 @@ main .section {
   .allpage .carousel .carousel-slide {
     height: 600px !important;
   }
+   
+  .info h3 {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .info h2 {
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+  }
+
+
 }
 
 /* section metadata */
