@@ -198,6 +198,11 @@ main .section {
     color: #FFF;
 }
 
+.world a.button:any-link, button {
+  border: 2px solid;
+  border-radius: 0;
+}
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
