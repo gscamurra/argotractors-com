@@ -224,6 +224,21 @@ main .section {
   border-radius: 0;
 }
 
+.news .button-container a {
+  color: black;
+  display: block;
+  background: no-repeat;
+  text-overflow: unset;
+  border: 0;
+  padding: 0;
+  white-space: normal;
+  text-align: left;
+  border-radius: 0;
+  font-weight: normal;
+  font-size: 18px;
+  text-decoration: underline;
+}
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
