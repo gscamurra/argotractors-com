@@ -214,6 +214,10 @@ main .section {
   .allpage .carousel-wrapper {
     max-width: 100% !important;
   }
+
+  .allpage .carousel .carousel-slide {
+    height: 600px !important;
+  }
 }
 
 /* section metadata */
