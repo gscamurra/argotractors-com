@@ -133,7 +133,7 @@ function handleFranklinSpecialCases(item) {
 function initField() {
   return {
     constraintMessages: {
-      required: 'Please fill in this field.',
+      required: 'Per favore compila questo campo.',
     },
   };
 }

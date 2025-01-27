@@ -73,7 +73,7 @@ const defaultConstraintTypeMessages = Object.freeze({
     [ConstraintType.RANGE_OVERFLOW]: 'Value must be less than or equal to ${0}.',
     [ConstraintType.RANGE_UNDERFLOW]: 'Value must be greater than or equal to ${0}.',
     [ConstraintType.TYPE_MISMATCH]: 'Please enter a valid value.',
-    [ConstraintType.VALUE_MISSING]: 'Please fill in this field.',
+    [ConstraintType.VALUE_MISSING]: 'Per favore compila questo campo.',
     [ConstraintType.STEP_MISMATCH]: 'Please enter a valid value.',
     [ConstraintType.FORMAT_MISMATCH]: 'Specify the value in allowed format : ${0}.',
     [ConstraintType.ACCEPT_MISMATCH]: 'The specified file type not supported.',
