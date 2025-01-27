@@ -225,7 +225,7 @@ main .section {
 }
 
 .cards.info > ul > li {
-  border: 0;
+  border: 0 !important;
 }
 
 .news .button-container a {
