@@ -231,6 +231,10 @@ main .section {
     padding: 0;
   }
 
+  .info p {
+    font-size: 16px;
+  }
+
 
 }
 
