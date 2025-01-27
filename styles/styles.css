@@ -203,6 +203,19 @@ main .section {
   border-radius: 0;
 }
 
+.europe {
+  text-align: center;
+    padding: 0;
+    margin: 0;
+    background: url("https://www.argotractors.com/wp-content/uploads/2020/10/ArgoTractors_Homepage_MarchiInternazionali_1920x1060px-2.jpg");
+    color: #FFF;
+}
+
+.europe a.button:any-link, button {
+  border: 2px solid;
+  border-radius: 0;
+}
+
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
