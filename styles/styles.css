@@ -190,6 +190,14 @@ main .section {
   padding: 64px 16px;
 }
 
+.world h2, .europe h2 {
+  font-size: 30px;
+}
+
+.world h3, .europe h3 {
+  font-size: 25px;
+}
+
 .world {
   text-align: center;
     padding: 0;
